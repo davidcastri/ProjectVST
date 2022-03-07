@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+    /* or 100vw, that's the same */
+    height: 100vh;
+}
